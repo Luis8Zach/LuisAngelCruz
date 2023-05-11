@@ -1,5 +1,10 @@
 h1{
     color: blue;
-    padding: 23%;
-    position: relative;
+    position: absolute;
+    padding: 30%;
+    top: 50px;
+}
+.src{
+position: relative;
+margin: auto;
 }
